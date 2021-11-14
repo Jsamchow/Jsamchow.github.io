@@ -850,7 +850,7 @@ body{
 }
 
 .cm-join-out{
-    background: url('./imgs/bg.png') no-repeat;
+    background: url('./../imgs/bg.png') no-repeat;
     background-size: cover;
 
 }
